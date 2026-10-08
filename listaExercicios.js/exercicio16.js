@@ -1,4 +1,4 @@
-const listaVIP = (nomes=['Gabriel'], nomeBuscado='Gabriel') => {
+const listaVIP = (nomes=['Arthur'], nomeBuscado='Arthur') => {
 
   for (const nome of nomes) {
     if (nome === nomeBuscado) {
@@ -8,5 +8,5 @@ const listaVIP = (nomes=['Gabriel'], nomeBuscado='Gabriel') => {
   return false
 }
 
-console.log(listaVIP(['Gabriel']))
+console.log(listaVIP(['Arthur']))
  

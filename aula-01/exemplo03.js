@@ -1,4 +1,4 @@
-const nome = 'Gabriel';
+const nome = 'Arthur';
 const msg = `Olá,  $nome}. Bem-vindo!`;
 console.log (msg);
 
